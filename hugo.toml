@@ -1,3 +1,32 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Project'
+languageCode = 'en'
+title = 'phangelim'
+theme = 'hugo-coder'
+
+[pagination]
+pagerSize = 20
+
+[markup.highlight]
+style = "github-dark"
+
+
+[params]
+author = "phangelim"
+colorScheme = "auto"
+
+
+[[params.social]]
+name = "Github"
+icon = "fa-brands fa-github fa-2x"
+weight = 1
+url = "https://github.com/phangelim/"
+
+[[menu.main]]
+name = "Blog"
+weight = 1
+url = "post/"
+
+[[menu.main]]
+name = "About"
+weight = 2 
+url = "about/"
