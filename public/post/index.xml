@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>phangelim</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on phangelim</description>
+    <title>Posts on phangelim</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on phangelim</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 25 Mar 2026 19:13:33 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My_first_post</title>
       <link>http://localhost:1313/post/2026/03/my_first_post/</link>
       <pubDate>Wed, 25 Mar 2026 19:13:33 -0300</pubDate>
       <guid>http://localhost:1313/post/2026/03/my_first_post/</guid>
       <description></description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Wed, 25 Mar 2026 19:08:17 -0300</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Hello, :hand: my name is Pedro.&#xA;I am Software Developer&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
