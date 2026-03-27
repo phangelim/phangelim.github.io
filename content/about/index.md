@@ -4,5 +4,4 @@ draft = true
 title = 'About'
 +++
 
-Hello, :hand: my name is Pedro.
-I am Software Developer
+
