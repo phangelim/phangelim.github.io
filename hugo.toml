@@ -30,3 +30,8 @@ url = "post/"
 name = "About"
 weight = 2 
 url = "about/"
+
+[[menu.main]]
+name = "Contact Me"
+weight = 3
+url = "contact_me/"
