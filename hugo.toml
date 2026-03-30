@@ -1,4 +1,4 @@
-baseURL = 'https://https://phangelim.github.io/'
+baseURL = 'https://phangelim.github.io/'
 languageCode = 'en'
 title = 'phangelim'
 theme = 'hugo-coder'
