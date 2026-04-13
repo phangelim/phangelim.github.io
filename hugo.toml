@@ -1,0 +1,15 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'phangelim'
+theme = 'hugo-coder'
+
+[pagination]
+pagerSize = 20
+
+[params]
+author = "phangelim"
+
+colorScheme = "auto"
+hidecolorSchemetoggle = false
+
+
