@@ -12,4 +12,40 @@ author = "phangelim"
 colorScheme = "auto"
 hidecolorSchemetoggle = false
 
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa-brands fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/phangelim/"
+
+# Social links
+[[params.social]]
+  name = "Linkedin"
+  icon = "fa-brands fa-linkedin fa-2x"
+  weight = 2
+  url = "www.linkedin.com/in/pedro-henrique-lima-coelho-8256a1387"
+
+#Menu links
+[[menu.main]]
+name = "Posts"
+weight = 1 
+url = "posts/"
+
+[[menu.main]]
+name = "About"
+weight = 2 
+url = "about/"
+
+[[menu.main]]
+name = "Contact"
+weight = 3 
+url = "contact/"
+
 
