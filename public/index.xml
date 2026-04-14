@@ -6,7 +6,15 @@
     <description>Recent content on phangelim</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 13 Apr 2026 20:14:08 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Primeiro Post</title>
+      <link>http://localhost:1313/posts/2026/04/first_post/</link>
+      <pubDate>Mon, 13 Apr 2026 20:14:08 -0300</pubDate>
+      <guid>http://localhost:1313/posts/2026/04/first_post/</guid>
+      <description></description>
+    </item>
     <item>
       <title></title>
       <link>http://localhost:1313/about/</link>
