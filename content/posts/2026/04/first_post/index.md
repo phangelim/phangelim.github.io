@@ -15,7 +15,7 @@ series = []
 
 Inspirado pelo blog do Fábio Akita o [Akitaonrails](https://akitaonrails.com/) decidi fazer meu próprio blog.
 
-![Imagem a ser adicionada quando eu finalizar o Blog](/home/pedro/Projects/Blog/imagem_teste.png)
+![Blog Feito](static/images/blog_feito.png)
 
 ## Porque um Blog?
 
