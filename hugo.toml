@@ -30,7 +30,7 @@ hidecolorSchemetoggle = false
   name = "Linkedin"
   icon = "fa-brands fa-linkedin fa-2x"
   weight = 2
-  url = "https://www.linkedin.com/in/pedro-henrique-lima-coelho-8256a1387/?locale=en"
+  url = "https://www.linkedin.com/in/pedro-henrique-lima-8256a1387/?locale=en"
 
 #Menu links
 [[menu.main]]
