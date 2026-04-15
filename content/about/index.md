@@ -1,1 +1,3 @@
 # About
+
+Apenas alguém curioso

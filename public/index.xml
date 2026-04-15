@@ -27,14 +27,14 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;h1 id=&#34;about&#34;&gt;&#xA;  About&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#about&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;</description>
+      <description>&lt;h1 id=&#34;about&#34;&gt;&#xA;  About&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#about&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Apenas alguém curioso&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/contact/</guid>
-      <description>&lt;h1 id=&#34;contact&#34;&gt;&#xA;  Contact&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#contact&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;</description>
+      <description>&lt;h1 id=&#34;contact&#34;&gt;&#xA;  Contact&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#contact&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Email para contato: &lt;a href=&#34;mailto:phangelim.dev@gmail.com&#34; &gt;phangelim.dev@gmail.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
